@@ -53,10 +53,12 @@ I am a **Frontend Developer** with 4+ years of experience building scalable, SEO
 ### Build Tools, Workflows & Others
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,pnpm,vite,webpack,gulp,babel,eslint,swagger,postman,figma" alt="Tools and Workflows" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,pnpm,vite,webpack,gulp,babel,postman,figma" alt="Tools and Workflows" />
   </a>
 </p>
 <p align="left">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/Cmder-131D24?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Cmder" />
 </p>
