@@ -79,15 +79,6 @@ I am a **Frontend Developer** with 4+ years of experience building scalable, SEO
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Added hide_rank=true to remove the "C" and emphasize the stats instead -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BadrJibali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Badr's GitHub Stats" width="50%" height="150px" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadrJibali&theme=tokyonight&hide_border=true" alt="Badr's GitHub Streak" width="50%" height="150px" />
-</div>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadrJibali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BadrJibali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Badr's GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadrJibali&theme=tokyonight&hide_border=true" alt="Badr's GitHub Streak" height="195" />
 </div>
