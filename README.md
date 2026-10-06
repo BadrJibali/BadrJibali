@@ -3,14 +3,17 @@
 </div>
 
 <div align="center">
-<a href="mailto:badr.jibali@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-</a>
-  <a href="https://www.linkedin.com/in/badr-jibali94">
+  <a href="mailto:badr.jibali@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/badr-jibali94">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://badr-jibali.netlify.app/">
+  <a href="https://badr-jibali.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/201156260918">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
