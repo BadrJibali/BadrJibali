@@ -36,7 +36,11 @@ I am a **Frontend Developer** with 4+ years of experience building scalable, SEO
   </a>
 </p>
 <p align="left">
-  <code>PrimeVue</code> <code>Shadcn</code> <code>BootstrapVue</code> <code>Nunjucks</code> <code>JSON</code>
+  <img src="https://img.shields.io/badge/PrimeVue-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="PrimeVue" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/BootstrapVue-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootstrapVue" />
+  <img src="https://img.shields.io/badge/Nunjucks-1C4913?style=for-the-badge" alt="Nunjucks" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </p>
 
 ### Desktop & Cross-Platform
@@ -53,7 +57,8 @@ I am a **Frontend Developer** with 4+ years of experience building scalable, SEO
   </a>
 </p>
 <p align="left">
-  <code>Zod</code> <code>Cmder</code>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Cmder-131D24?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Cmder" />
 </p>
 
 ---
